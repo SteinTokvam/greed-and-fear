@@ -11,6 +11,8 @@ git clone
 
 cd greed-and-fear
 
+nvm use
+
 npm i
 
 npm start
