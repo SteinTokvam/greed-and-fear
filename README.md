@@ -23,3 +23,5 @@ To run backtest use
 ``` bash
 npm test
 ```
+
+![image from backtest](test-results.png)
