@@ -1,0 +1,16 @@
+{
+  "name": "gread-and-fear",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js",
+    "start": "node src/index.js"
+  },
+  "author": "SteinTokvam",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^4.4.19"
+  }
+}
